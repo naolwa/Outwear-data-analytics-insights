@@ -1,28 +1,22 @@
-# 🧥 Outerwear Department Performance Analysis
+Outerwear Department Performance Analysis
 
-> **A concise retail analytics case study on why outerwear underperformed and what the data revealed.**
+A concise retail analytics case study on why outerwear underperformed and what the data revealed.
 
----
 
-## 🔍 Overview
+Overview
 
 This analysis explores the reasons behind the outerwear department’s underperformance in an e-commerce retail environment. Despite strong product quality and loyal customer purchases, outerwear generates lower revenue compared to other categories. The goal was to determine whether this gap is driven by customer experience, perceived value, discounting, seasonality, or promotional strategy.
+ Key Findings
+* Customer Experience & Quality: Stable ratings and a 0% return rate indicate high customer satisfaction.
+* Discount Strategy: Outerwear has lower discount penetration than other departments, limiting sales volume.
+* Seasonality: Sales peak in Autumn/Winter and drop sharply in Spring/Summer, affecting annual performance.
+* Promotions & Basket Size: The lack of bundle promotions results in smaller average transaction values.
 
----
+Conclusion
 
-## 📊 Key Findings
+The underperformance of the outerwear department is not caused by poor customer experience or low perceived value. Instead, it is primarily driven by **strong seasonality**, **conservative discounting**, and **limited bundle-based promotions. 
+Optimizing these areas presents a clear opportunity to improve revenue while maintaining sustainable profitability.
 
-* ✅ **Customer Experience & Quality:** Stable ratings and a **0% return rate** indicate high customer satisfaction.
-* 💸 **Discount Strategy:** Outerwear has **lower discount penetration** than other departments, limiting sales volume.
-* 🍂 **Seasonality:** Sales peak in **Autumn/Winter** and drop sharply in **Spring/Summer**, affecting annual performance.
-* 🛍️ **Promotions & Basket Size:** The lack of **bundle promotions** results in smaller average transaction values.
 
----
-
-## 🧠 Conclusion
-
-The underperformance of the outerwear department is **not** caused by poor customer experience or low perceived value. Instead, it is primarily driven by **strong seasonality**, **conservative discounting**, and **limited bundle-based promotions**. Optimizing these areas presents a clear opportunity to improve revenue while maintaining sustainable profitability.
-
----
 
 ✨ *This project demonstrates the use of data-driven analysis to support retail strategy and decision-making.*
